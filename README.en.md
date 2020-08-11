@@ -5,7 +5,7 @@
 中文版文档请参见 [README.md](README.md)
 
 ## Introduction
-<center><img src='assets/JjNb.gif'>&nbsp;&nbsp;&nbsp;&nbsp;<img src='assets/static.png'></center>
+<img src='assets/JjNb.gif'>&nbsp;&nbsp;&nbsp;&nbsp;<img src='assets/static.png'>
 
 I have seen some videos on the Internet, such as playing a certain video with dynamic salt and pepper images. If you pause, you can't see the content. If dynamic salt and pepper images are used to generate captcha, it can avoid being recognized by ordinary captcha recognition tools and increase interest.
 

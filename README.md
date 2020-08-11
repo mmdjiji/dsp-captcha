@@ -5,7 +5,7 @@
 For english version, please read [README.en.md](README.en.md)
 
 ## 简介
-<center><img src='assets/JjNb.gif'>&nbsp;&nbsp;&nbsp;&nbsp;<img src='assets/static.png'></center>
+<img src='assets/JjNb.gif'>&nbsp;&nbsp;&nbsp;&nbsp;<img src='assets/static.png'>
 
 在网上看到过一些视频，比如用动态椒盐图像来播放某种视频，暂停就无法看到内容。如果用动态椒盐图像来生成验证码的话，就可以避免被普通的验证码识别工具识别，同时增加趣味性。
 
